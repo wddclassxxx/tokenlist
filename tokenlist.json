@@ -1,0 +1,53 @@
+{
+  "name": "weconomy Default",
+  "timestamp": "2025-10-22T07:44:37.332Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 4
+  },
+  "tags": {},
+  "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
+  "keywords": [
+    "weconomy",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 5031,
+      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
+      "name": "WSOMI",
+      "symbol": "WSOMI",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
+      "name": "USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdc.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x66dA8f12CEA987BF79F1c3b278cdAe741C1a1A75",
+      "name": "stSOMI",
+      "symbol": "stSOMI",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/stsomi.png"
+    }
+  ]
+}
