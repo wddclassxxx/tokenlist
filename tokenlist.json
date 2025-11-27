@@ -15,15 +15,6 @@
   "tokens": [
     {
       "chainId": 5031,
-      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
-      "name": "WSOMI",
-      "symbol": "WSOMI",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png"
-    },
-    {
-      "chainId": 5031,
       "address": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
       "name": "USDC",
       "symbol": "USDC.e",
